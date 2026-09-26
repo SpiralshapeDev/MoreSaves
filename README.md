@@ -47,4 +47,4 @@ If you cannot see this file, try running the game with the mod so that the file 
 4. Built mod should be located at `bin/Debug/MoreSaves.dll`
 
 
-5. Create a folder called `MoreSaves` in `<Undermine-Steam-Files>`, inside that folder add the `MoreSaves.dll` file & copy the `assets` folder found in mod's zip uploads.
+5. Create a folder called `MoreSaves` in `<Undermine-Steam-Files>/BepInEx/plugins`, inside that folder add the `MoreSaves.dll` file & copy the `assets` folder found in mod's zip uploads.
